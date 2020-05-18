@@ -1,2 +1,6 @@
 venv
 data
+.ipynb_checkpoints
+fig
+out
+result
